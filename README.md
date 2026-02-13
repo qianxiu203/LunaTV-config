@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-13 22:34 CST）
+## API 状态（最近更新：2026-02-13 23:31 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：73
 - 失败 API 数量：7
-- 平均可用率：97.6%
+- 平均可用率：97.5%
 - 完美可用率（100%）：54 个
 - 高可用率（80%-99%）：25 个
 - 中等可用率（50%-79%）：0 个
@@ -232,14 +232,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬豆瓣资源 | https://caiji.dbzy5.com/api.php/provide/vod | 93 | 7 | 93.0% | 0 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
-| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
-| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
-| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 91 | 9 | 91.0% | 9 |
-| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 83 | 9 | 90.2% | 9 |
-| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 90 | 10 | 90.0% | 9 |
-| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 9 |
-| ✅ | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 9 | 30 | 23.1% | 0 |
+| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 90 | 10 | 90.0% | 10 |
+| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 83 | 10 | 89.2% | 10 |
+| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 89 | 11 | 89.0% | 10 |
+| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 10 |
+| ✅ | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 10 | 30 | 25.0% | 0 |
 <!-- API_TABLE_END -->
 
 
