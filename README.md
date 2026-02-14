@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-15 00:15 CST）
+## API 状态（最近更新：2026-02-15 01:16 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：73
@@ -232,14 +232,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬360 资源 | https://360zy.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 92 | 8 | 92.0% | 0 |
-| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 68 | 32 | 68.0% | 32 |
-| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 68 | 32 | 68.0% | 32 |
-| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 68 | 32 | 68.0% | 32 |
-| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 68 | 32 | 68.0% | 32 |
-| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 68 | 32 | 68.0% | 32 |
-| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 67 | 33 | 67.0% | 32 |
-| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 66 | 34 | 66.0% | 32 |
-| ✅ | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 32 | 30 | 51.6% | 0 |
+| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
+| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
+| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
+| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
+| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 67 | 33 | 67.0% | 33 |
+| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 66 | 34 | 66.0% | 33 |
+| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 65 | 35 | 65.0% | 33 |
+| ✅ | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 33 | 30 | 52.4% | 0 |
 <!-- API_TABLE_END -->
 
 
