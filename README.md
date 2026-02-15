@@ -144,12 +144,12 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-16 01:16 CST）
+## API 状态（最近更新：2026-02-16 02:19 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：73
 - 失败 API 数量：7
-- 平均可用率：94.1%
+- 平均可用率：94.0%
 - 完美可用率（100%）：51 个
 - 高可用率（80%-99%）：21 个
 - 中等可用率（50%-79%）：1 个
@@ -232,14 +232,14 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 95 | 5 | 95.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ✅ | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 54 | 30 | 64.3% | 0 |
-| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
-| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
-| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
-| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
-| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
-| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 46 | 54 | 46.0% | 54 |
-| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 44 | 56 | 44.0% | 54 |
+| ✅ | 🎬豪华资源 | https://hhzyapi.com/api.php/provide/vod | 55 | 30 | 64.7% | 0 |
+| 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 45 | 55 | 45.0% | 55 |
+| 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 45 | 55 | 45.0% | 55 |
+| 🚨 | 🔞-色南国- | https://api.sexnguon.com/api.php/provide/vod | 45 | 55 | 45.0% | 55 |
+| 🚨 | 🔞91-精品- | https://91jpzyw.com/api.php/provide/vod | 45 | 55 | 45.0% | 55 |
+| 🚨 | 🔞souavZY | https://api.souavzy.vip/api.php/provide/vod | 45 | 55 | 45.0% | 55 |
+| 🚨 | 🔞杏吧资源 | https://jjpz.hafrey.dpdns.org/?url=https://xingba111.com/api.php/provide/vod | 45 | 55 | 45.0% | 55 |
+| 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 43 | 57 | 43.0% | 55 |
 <!-- API_TABLE_END -->
 
 
