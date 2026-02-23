@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-02-24 05:34 CST）
+## API 状态（最近更新：2026-02-24 06:30 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：69
@@ -228,10 +228,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬魔都动漫 | https://caiji.moduapi.cc/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 94 | 6 | 94.0% | 0 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 84 | 16 | 84.0% | 1 |
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
-| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 68 | 32 | 68.0% | 7 |
-| 🚨 | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 66 | 34 | 66.0% | 32 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 83 | 17 | 83.0% | 2 |
+| 🚨 | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 67 | 33 | 67.0% | 8 |
+| 🚨 | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 65 | 35 | 65.0% | 33 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
