@@ -144,11 +144,11 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-05-05 19:08 CST）
+## API 状态（最近更新：2026-05-05 21:04 CST）
 
 - 总 API 数量：80
-- 成功 API 数量：70
-- 失败 API 数量：10
+- 成功 API 数量：69
+- 失败 API 数量：11
 - 平均可用率：86.7%
 - 完美可用率（100%）：46 个
 - 高可用率（80%-99%）：23 个
@@ -208,7 +208,6 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞麻豆视频 | https://91md.me/api.php/provide/vod | 100 | 0 | 100.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬最大资源 | https://api.zuidapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
-| ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬建安资源 | http://154.219.117.232:9981/jacloudapi.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬电影天堂 | http://caiji.dyttzyapi.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
@@ -224,6 +223,7 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬卧龙影视 | https://collect.wolongzyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
+| ❌ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 98 | 2 | 98.0% | 1 |
 | ✅ | 🔞丝袜资源 | https://siwazyw.tv/api.php/provide/vod/at/json | 98 | 2 | 98.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬猫眼资源 | https://api.maoyanapi.top/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
