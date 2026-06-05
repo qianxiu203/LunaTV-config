@@ -144,15 +144,15 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-06-06 06:54 CST）
+## API 状态（最近更新：2026-06-06 07:56 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：67
 - 失败 API 数量：13
 - 平均可用率：84.8%
 - 完美可用率（100%）：45 个
-- 高可用率（80%-99%）：22 个
-- 中等可用率（50%-79%）：2 个
+- 高可用率（80%-99%）：23 个
+- 中等可用率（50%-79%）：1 个
 - 低可用率（<50%）：11 个
 
 <div style="font-size: 11px;">
@@ -222,12 +222,12 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬优质资源 | https://api.yzzy-api.com/inc/apijson.php | 98 | 2 | 98.0% | 0 |
 | ✅ | 🎬卧龙资源 | https://wolongzyw.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
+| ❌ | 🎬速播资源 | https://subocaiji.com/api.php/provide/vod | 96 | 4 | 96.0% | 1 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞-奥斯卡- | https://aosikazy.com/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
-| 🚨 | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 87 | 13 | 87.0% | 13 |
-| ❌ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 83 | 17 | 83.0% | 1 |
-| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 79 | 21 | 79.0% | 0 |
+| 🚨 | 🎬金鹰点播 | https://jinyingzy.com/api.php/provide/vod | 86 | 14 | 86.0% | 14 |
+| ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
+| ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 80 | 20 | 80.0% | 0 |
 | ✅ | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 73 | 27 | 73.0% | 0 |
 | 🚨 | 🎬卧龙影视 | https://collect.wolongzyw.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
