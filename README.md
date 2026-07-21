@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-07-21 15:26 CST）
+## API 状态（最近更新：2026-07-21 18:11 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：68
@@ -222,10 +222,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🔞白嫖资源 | https://www.kxgav.com/api/json.php | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞百万资源 | https://api.bwzyz.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
 | ✅ | 🔞辣椒资源 | https://apilj.com/api.php/provide/vod | 99 | 1 | 99.0% | 0 |
+| ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬无尽影视 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🎬茅台资源 | https://caiji.maotaizy.cc/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
-| ✅ | 🎬U酷影视 | https://api.ukuapi88.com/api.php/provide/vod | 96 | 4 | 96.0% | 0 |
 | ✅ | 🔞滴滴资源 | https://api.ddapi.cc/api.php/provide/vod | 90 | 10 | 90.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 81 | 19 | 81.0% | 0 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
