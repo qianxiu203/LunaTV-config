@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-03 07:38 CST）
+## API 状态（最近更新：2026-09-03 09:40 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：67
@@ -225,10 +225,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬iKun资源 | https://ikunzyapi.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🔞-奥斯卡- | https://aosikazy.com/api.php/provide/vod | 89 | 11 | 89.0% | 0 |
 | ✅ | 🎬魔都资源 | https://www.mdzyapi.com/api.php/provide/vod | 88 | 12 | 88.0% | 0 |
-| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 88 | 12 | 88.0% | 1 |
+| ❌ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 87 | 13 | 87.0% | 2 |
 | ✅ | 🎬-爱奇艺- | https://iqiyizyapi.com/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
-| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 66 | 34 | 66.0% | 34 |
-| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 30 | 70 | 30.0% | 0 |
+| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 65 | 35 | 65.0% | 35 |
+| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 31 | 69 | 31.0% | 0 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
