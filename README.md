@@ -144,7 +144,7 @@ https://api.example.workers.dev/?config=1&encode=base58
   
 # API 健康报告（每日自动检测API状态）
 
-## API 状态（最近更新：2026-09-08 19:49 CST）
+## API 状态（最近更新：2026-09-08 23:27 CST）
 
 - 总 API 数量：80
 - 成功 API 数量：66
@@ -225,10 +225,10 @@ https://api.example.workers.dev/?config=1&encode=base58
 | ✅ | 🎬无尽影视 | https://api.wujinapi.com/api.php/provide/vod | 97 | 3 | 97.0% | 0 |
 | ✅ | 🔞鲨鱼资源 | https://shayuapi.com/api.php/provide/vod | 91 | 9 | 91.0% | 0 |
 | ✅ | 🔞黄色仓库 | https://hsckzy.xyz/api.php/provide/vod | 83 | 17 | 83.0% | 0 |
-| 🚨 | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 73 | 27 | 73.0% | 27 |
-| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 72 | 28 | 72.0% | 27 |
-| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 69 | 31 | 69.0% | 0 |
-| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 27 | 73 | 27.0% | 73 |
+| 🚨 | 🔞香蕉资源 | https://www.xiangjiaozyw.com/api.php/provide/vod | 72 | 28 | 72.0% | 28 |
+| 🚨 | 🔞细胞资源 | https://www.xxibaozyw.com/api.php/provide/vod | 71 | 29 | 71.0% | 28 |
+| ✅ | 🔞-幸资源- | https://xzybb2.com/api.php/provide/vod | 70 | 30 | 70.0% | 0 |
+| 🚨 | 🔞--AIvin- | http://lbapiby.com/api.php/provide/vod | 26 | 74 | 26.0% | 74 |
 | 🚨 | 🎬如意资源 | https://jjpz.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬山海资源 | https://zy.sh0o.cn/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
 | 🚨 | 🎬百度云zy | https://jjpz.hafrey.dpdns.org/?url=https://api.apibdzy.com/api.php/provide/vod | 0 | 100 | 0.0% | 100 |
